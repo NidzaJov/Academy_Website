@@ -24,3 +24,5 @@ TrainerToTrainer, TrainerToStudent, StudentToTrainer, Evaluacija jos treba da sa
 -	Jasno, svaki Exam se sastoji od liste pitanja (entitet Question). Taj entitet treba da ima svoje pitanje, odgovor, broj poena I naravno flag IsActive.
 -	Program treba da sadrzi I svoj finansijski deo. Osobe sa rolom Finance mogu da pogledaju listu svih kupljenih kurseva, filtriraju listu po student, imenu kursa… takodje, omoguciti finansijskoj sluzbi Refund opciju tj. povracaj novca studentu. Vodite racuna o listi kupljenih kurseva. Takodje, omogucite finansijskoj sluzbi da ima uvid u ukupnu sumu zaradjenu od prodaje kurseva. Pored toga, obavezno je definisanje plata trenera I asistenata.
 -	Sa druge strane, treneri I asistenti mogu da vide svoju platu.
+
+
