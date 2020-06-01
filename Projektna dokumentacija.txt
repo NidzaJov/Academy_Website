@@ -1,0 +1,157 @@
+Projekat se sastoji od sledecih klasa:
+
+Klasa Uloga
+
+-Sifra(ID): 4
+-enum NazivUloge : GlavniTrener
+
+Kolekcija Korisnika koji pripadaju svakoj od uloga
+
+-!Flag(bool) jeObrisana: false
+
+enum NazivUloge:
+-Administrator
+-Trener
+-GlavniTrener
+-Asistent
+-Student
+-Finansije
+
+Klasa Korisnik
+
+- SifraKorisnika(ID): 124
+-Ime: Jovan
+-Prezime: Stojanovic
+-DatumRegistracije: 01.05.2019.
+-Email: jovan.stojanovic@gmail.com 
+-Avatar(Slika): jovanovaslika.jpg
+-UlogaKorisnika:Trener
+-Adresa: Jeronimova 22, Nis, 18000, Srbija
+-KorisnickoIme: Joca85
+-Lozinka: Prolece2020+
+-!Flag(bool) jeAktivan: true
+
+Klasa Trener : Korisnik (Trener nasledjuje sve iz klase korisnik, ali ima dodatne properije, metode i ovlascenja
+-Plata 1000 (evra)
+
+Klasa GlavniTrener : Trener (GlavniTrener nasledjuje sve iz klase trener ali ima dodatne metode i ovlascenja
+
+Klasa Asistent: Trener (Asistent nasledjuje klasu Trener, ali sa manjim ovlascenjima)
+
+Klasa Zabeleska (Glavni trener moze ostavljati zabeleske nizim trenerima)
+-SifraZabeleske: 409
+-TekstZabeleske: "Mika je dobro vodio predavanje juce"
+-SifraTreneraKojiJeOstavioZabelesku: 22
+-SifraTreneraKomeJeUpucenaZabeleska: 59
+
+Postoji Lista svih zabeleski koja se zove "Zabeleske".
+
+
+
+Klasa Student : Korisnik (Student nasledjuje sve iz klase korisnik, ali ima posebne metode koje su mu dostupne)
+
+
+Klasa Administrator : Korisnik (Isto kao klasa Student, samo sa svojim posebnim ovlascenjima/metodama)
+
+Klasa Finansije : Korisnik (Isto kao klasa Student, samo sa svojim posebnim ovlascenjima/metodama)
+
+Klasa Evaluacija
+ -SifraEvaluacije: 1
+ -EvauiranKurs: C# kurs
+ -enum SmerEvaluacije: StudentTreneru
+ -TekstEvaluacije: "Trener Mika je dobar predavac"
+ -enum Ocena: 5
+ 
+
+enum SmerEvaluacije
+- StudentTreneru
+- TrenerStudentu
+- TrenerTreneru
+
+enum Ocena
+-1
+-2
+-3
+-4
+-5
+
+Klasa Kurs
+
+-ID    			18
+-Naziv			JS it is fun
+-Tip enum		online
+-Kategorija		js
+-Tezina enum		pocetni nivo
+-Opis			Uvod u js
+-Trajanje 		7,5 h
+-DatumPocetka		21. 05. 2020
+-DatumKraja		21. 06. 2020
+-Lokacija id    	1
+-Materjali		1
+-Cena			50 (evra)
+-popust id		1
+-Status-flag		aktivan
+
+enum Tip
+-online
+-ucionica
+-kompletan kurs
+
+enum Tezina
+-pocetni nivo
+-srednji nivo
+-napredni nivo
+
+Klasa LokacijaKursa
+-id			1
+-naziv			Nis
+-adresa			Maksima Gorkog 9
+-grad			Nis
+-postanski broj		18 000
+-id drzave		1
+
+Klasa Drzava
+-id			1
+-naziv			Srbija
+-kod			381
+
+Klasa Materijali
+-id			1
+-naziv			JS It is fun prezentacija
+-url			https://drive.google.com/drive/folders/1
+
+Klasa Popust
+-id			1
+-promo kod		null
+-procenat popusta	10%
+-vrednost popusta	0
+-datum isteka popusta	21.06 2020.
+
+Klasa valuta
+-id			1
+-puno ime		Dinar Republike Srbije
+-ime valute		RSD
+-kurs			117
+			
+Klasa Ispit
+-id			1
+-trajanje		1 h
+-lista pitanja		1, 2, 3, 21, 5, 6, 7
+-status flag		aktivan
+
+Klasa lista odradjenih ispita
+-ispit id		1
+-student id		5
+-odgovori		1, 3, 2, 4, 4, 1, 2
+-zbir poena		70
+-evaluacija -flag	polozio
+
+Klasa pitanja
+-id			1
+-tekst pitanja		Koji od sledecih vrsta podataka ne pripada java scriptu?
+-?ponudjeni odgovori	int, var, string, IList
+-odgovor		IList
+-broj poena		2
+
+
+

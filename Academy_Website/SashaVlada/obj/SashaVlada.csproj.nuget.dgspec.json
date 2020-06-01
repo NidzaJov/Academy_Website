@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\SashaVlada\\SashaVlada.csproj": {}
+    "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\SashaVlada\\SashaVlada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\SashaVlada\\SashaVlada.csproj": {
+    "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\SashaVlada\\SashaVlada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\SashaVlada\\SashaVlada.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\SashaVlada\\SashaVlada.csproj",
         "projectName": "SashaVlada",
-        "projectPath": "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\SashaVlada\\SashaVlada.csproj",
+        "projectPath": "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\SashaVlada\\SashaVlada.csproj",
         "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\SashaVlada\\obj\\",
+        "outputPath": "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\SashaVlada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",

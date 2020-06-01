@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj": {}
+    "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj": {
+    "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj",
         "projectName": "DjoleMilutin",
-        "projectPath": "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj",
+        "projectPath": "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\DjoleMilutin\\DjoleMilutin.csproj",
         "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikola\\Desktop\\ACADEMY WEBSITE\\Academy_Website\\DjoleMilutin\\obj\\",
+        "outputPath": "C:\\Users\\Nikola\\Desktop\\Git folder II\\Academy_Website\\Academy_Website\\DjoleMilutin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
