@@ -153,5 +153,9 @@ Klasa pitanja
 -odgovor		IList
 -broj poena		2
 
+Klasa KupljeniKurs
+
+Klasa Povrat
+
 
 
