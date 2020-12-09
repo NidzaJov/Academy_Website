@@ -1,0 +1,1 @@
+Ovaj fajl je za vezbu komande 'amend' kao zaboravljen i commit je napravljen bez njegovog addovanja.
