@@ -1,3 +1,7 @@
 Ovaj fajl je za vezbu komande 'amend' kao zaboravljen i commit je napravljen bez njegovog addovanja.
 Paravim izmenu da bih dodao laki tag.
+
+Druga izmena za konflikt.
+
 Treca izmena za konflikt
+
