@@ -1,2 +1,6 @@
 Ovaj fajl je za vezbu komande 'amend' kao zaboravljen i commit je napravljen bez njegovog addovanja.
 Paravim izmenu da bih dodao laki tag.
+
+
+
+Pisem da vidim da li ce biti u radnom folderu posle fetch origin.
