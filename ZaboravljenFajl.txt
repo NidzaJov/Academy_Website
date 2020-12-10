@@ -5,3 +5,7 @@ Druga izmena za konflikt.
 
 Treca izmena za konflikt
 
+
+
+Pisem da vidim da li ce biti u radnom folderu posle fetch origin.
+
