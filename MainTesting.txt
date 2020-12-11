@@ -1,1 +1,2 @@
 Pisem nesto da bi video da li ce da se pojavi u radnom folderu posle fetch origin
+Promena 1
