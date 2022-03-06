@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy_Website", "Academy_Website\Academy_Website.csproj", "{222CCFDE-B16B-4FE9-8060-6800E44D2CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DjoleMilutin", "DjoleMilutin\DjoleMilutin.csproj", "{03834CCA-6DD4-44EB-AD7F-609581676117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kursevi", "DjoleMilutin\Kursevi.csproj", "{03834CCA-6DD4-44EB-AD7F-609581676117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SashaVlada", "SashaVlada\SashaVlada.csproj", "{DC8CEB8B-A3D4-4DA6-991B-B3D633BC48CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treneri", "SashaVlada\Treneri.csproj", "{DC8CEB8B-A3D4-4DA6-991B-B3D633BC48CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleksandraNikola", "AleksandraNikola\AleksandraNikola.csproj", "{E6D4A17E-218D-4192-9E23-1A3F9A1A3DD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KorisniciUloge", "AleksandraNikola\KorisniciUloge.csproj", "{E6D4A17E-218D-4192-9E23-1A3F9A1A3DD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
